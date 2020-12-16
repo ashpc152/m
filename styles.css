@@ -1,0 +1,117 @@
+
+.navor{
+ background-color: #79d70f;
+
+}
+
+#mtitle{
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 280%;
+  padding-left: 3.5%;
+
+}
+
+.mycaro{
+  background-image: url("image/webc.png");
+  text-align: center;
+  /*padding-bottom: 2rem;*/
+}
+
+.desc{
+
+  text-align: center;
+  padding-top: 3.3rem;
+  padding-bottom: 2rem;
+
+}/*#f7fbe1*/
+
+/*#c4fb6d*/
+
+.sech1{
+  font-family: 'Caveat', cursive;
+  font-size: 6rem;
+  padding-bottom: 2rem;
+color: #ff414d;
+}
+
+p{
+  font-family: 'Kalam', cursive;
+  font-size: 1.5rem;
+
+}
+
+.dil{
+  color: #ff414d;
+}
+
+.hp{
+  color: #ff9a76;
+}
+
+.playlist{
+  padding-top: 2rem;
+padding-left: 11rem;
+padding-right: 11rem;
+padding-bottom: 1.7rem;
+  background-image: url("image/web.png");
+}
+
+.play{
+  text-align: center;
+  /*font-family: 'Marmelad', sans-serif;*/
+  font-family: 'Satisfy', cursive;
+  font-size: 3.5rem;
+  color: #ffffff;
+  padding-bottom: 1.5rem;
+}
+
+.mylist{
+font-family: 'Reem Kufi', sans-serif;
+font-size: 1.3rem;
+padding-left: 2.5rem;
+background-color: #fffeec;
+}
+
+.mybutton{
+ margin-right: 2.5rem;
+  float:right;
+font-family: 'Kufam', cursive;
+}
+
+.lastp{
+  font-family: 'Raleway', sans-serif;
+  padding-top: 1.7rem;
+  text-align: center;
+  color: #f7fbe1;
+}
+
+.lastpc{
+  font-family: 'Raleway', sans-serif;
+
+  text-align: center;
+  color: #f7fbe1;
+}
+
+.white-section{
+  text-align: center;
+  padding-top: 2rem;
+
+}
+
+.foot{
+  margin-left: 1rem;
+}
+
+.lastf{
+  font-family:  'Raleway', sans-serif;
+  font-size: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.myAudio{
+  float: right;
+  margin-right: 1.5rem;
+  height: 2.5rem;
+  width: 24rem;
+}
